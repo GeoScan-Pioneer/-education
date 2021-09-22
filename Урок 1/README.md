@@ -1,18 +1,18 @@
 # PyCharm и Python
 
 # Оглавление
-###1. [Введение](#introduction)
-###2. [PyCharm](#PyCharm)
-###2. [Установка](#Install)
-1. [Установка Python](#Install Python)
-2. [Установка PyCharm](#Install PyCharm)
+[Введение](#introduction)
+1. [PyCharm](#PyCharm)
+2. [Установка](#Install)
+    1. [Установка Python](#Install Python)
+    2. [Установка PyCharm](#Install PyCharm)
 
-###3. [Создание проекта](#Create priject)
-1. [На что стоит обратить внимание](#Create priject1)
-2. [Устранение проблем](#Create priject2)
+3. [Создание проекта](#Create priject)
+    1. [На что стоит обратить внимание](#Create priject1)
+    2. [Устранение проблем](#Create priject2)
 
-###4. [Установка библиотек в проект](#Install lib)
-1. [Создание списка установленых библиотек](#Install lib1)
+4. [Установка библиотек в проект](#Install lib)
+    1. [Создание списка установленых библиотек](#Install lib1)
 
 
 ## Введение <a name="introduction"></a>
